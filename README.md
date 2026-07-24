@@ -55,6 +55,19 @@
 
 ---
 
+## 📸 系统运行与效果展示 (System Showcase)
+
+### 🎥 实时检测与告警演示视频 (Demo Video)
+
+<div align="center">
+  <video src="./video1/show1.mp4" controls width="100%" poster="./picture3.jpg">
+    您的浏览器不支持 HTML5 视频播放，请直接下载或在支持的浏览器中查看：<a href="./video1/show1.mp4">下载演示视频</a>
+  </video>
+  <p><i>📹 <b>视频演示</b>：FallGuard-CV 姿态追踪、三种隐私模式切换、跌倒识别与微信 PushPlus 实时告警全流程</i></p>
+</div>
+
+---
+
 ## 🛠️ 技术栈 (Tech Stack)
 
 | 模块 | 技术选型 |
